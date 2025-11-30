@@ -1,0 +1,11 @@
+# Ignore .env file
+.env
+.DS_Store
+.zip
+*.onnx
+
+
+# Ignore the directory
+venv/
+chatbot/
+test/
